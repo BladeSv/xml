@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<familise>
+
+	<family id="1">
+		<mother maiden-name="Ivanova">
+			<name>Kate</name>
+			<surname>Petrova</surname>
+			<age>29</age>
+		</mother>
+		<father>
+			<name>Igor</name>
+			<surname>Petrov</surname>
+			<age>25</age>
+			<military/>
+		</father>
+		<children>
+			<chiled>
+				<name>Olga</name>
+				<surname>Petrova</surname>
+				<age>5</age>
+				<gender>Female</gender>
+			</chiled>
+				<chiled>
+				<name>Misha</name>
+				<surname>Petrov</surname>
+				<age>3</age>
+				<gender>Male</gender>
+			</chiled>
+		</children>
+	</family>
+	<family id="2">
+				<mother maiden-name="Pushkina">
+			<name>Rita</name>
+			<surname>Ivanova</surname>
+			<age>40</age>
+		</mother>
+		<father>
+			<name>Vasa</name>
+			<surname>Ivanov</surname>
+			<age>45</age>
+			<military/>
+		</father>
+		<children>
+			<chiled>
+				<name>lena</name>
+				<surname>Ivanova</surname>
+				<age>14</age>
+				<gender>Female</gender>
+			</chiled>
+				<chiled>
+				<name>Kola</name>
+				<surname>Ivanov</surname>
+				<age>12</age>
+				<gender>Male</gender>
+			</chiled>
+		</children>
+	</family>
+	<family id="3">
+			<mother maiden-name="Milonova">
+			<name>Zina</name>
+			<surname>Pupkina</surname>
+			<age>55</age>
+		</mother>
+		<father>
+			<name>Grisha</name>
+			<surname>Pupkin</surname>
+			<age>53</age>
+			<military/>
+		</father>
+		<children>
+			<chiled>
+				<name>lena</name>
+				<surname>Pupkina</surname>
+				<age>24</age>
+				<gender>Female</gender>
+			</chiled>
+				<chiled>
+				<name>Kola</name>
+				<surname>Pupkin</surname>
+				<age>22</age>
+				<gender>Male</gender>
+			</chiled>
+		</children>
+	</family>
+
+</familise>
